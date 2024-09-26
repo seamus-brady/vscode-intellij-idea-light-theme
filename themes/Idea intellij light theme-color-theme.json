@@ -89,7 +89,7 @@
       ],
       "settings": {
         "foreground": "#000088",
-        "fontStyle": "bold"
+        "fontStyle": ""
       }
     },
     {
@@ -123,7 +123,7 @@
       ],
       "settings": {
         "foreground": "#4d154d",
-        "fontStyle": "bold"
+        "fontStyle": ""
       }
     },
     {
@@ -158,7 +158,7 @@
       "name": "Sections",
       "scope": "entity.name.section",
       "settings": {
-        "fontStyle": "bold"
+        "fontStyle": ""
       }
     },
     {
@@ -179,7 +179,7 @@
       "settings": {
         // "foreground": "#008800",
         "foreground": "#095e09",
-        "fontStyle": "bold"
+        "fontStyle": ""
       }
     },
     {
@@ -249,7 +249,7 @@
       "scope": "entity.name.tag",
       "settings": {
         "foreground": "#000088",
-        "fontStyle": "bold",
+        "fontStyle": "",
       }
     },
     {
@@ -328,7 +328,7 @@
       "name": "CSS: Important Keyword",
       "scope": "keyword.other.important",
       "settings": {
-        "fontStyle": "bold"
+        "fontStyle": ""
       }
     },
     {
@@ -500,7 +500,7 @@
       "settings": {
         // "foreground": "#712071",
         "foreground": "#4d154d",
-        "fontStyle": "bold"
+        "fontStyle": ""
       }
     },
     {
@@ -508,7 +508,7 @@
       "scope": "variable.language",
       "settings": {
         "foreground": "#0042B6",
-        "fontStyle": "bold"
+        "fontStyle": ""
       }
     },
     {
@@ -524,7 +524,7 @@
       "name": "variable.other.object.property.js",
       "scope": "variable.other.object.property.js",
       "settings": {
-        // "fontStyle": "bold"
+        // "fontStyle": ""
         "fontStyle": ""
       }
     },
@@ -532,7 +532,7 @@
       "name": "variable.other.readwrite.js",
       "scope": "variable.other.readwrite.js",
       "settings": {
-        // "fontStyle": "bold"
+        // "fontStyle": ""
         "fontStyle": ""
       }
     },
@@ -540,7 +540,7 @@
       "name": "variable.other.property.js",
       "scope": "variable.other.property.js",
       "settings": {
-        // "fontStyle": "bold"
+        // "fontStyle": ""
         "fontStyle": ""
       }
     },
@@ -571,7 +571,7 @@
       ],
       "settings": {
         "foreground": "#4d154d",
-        // "fontStyle": "bold"
+        // "fontStyle": ""
         "fontStyle": ""
       }
     },
@@ -627,7 +627,7 @@
       "scope": "storage.type.function.js",
       "settings": {
         "foreground": "#000088",
-        "fontStyle": "bold"
+        "fontStyle": ""
       }
     },
     {
@@ -635,7 +635,7 @@
       "scope": "storage.type.js",
       "settings": {
         "foreground": "#000088",
-        "fontStyle": "bold"
+        "fontStyle": ""
       }
     },
     {
@@ -643,7 +643,7 @@
       "scope": "variable.language.this.js",
       "settings": {
         "foreground": "#000088",
-        "fontStyle": "bold"
+        "fontStyle": ""
       }
     },
 
@@ -653,7 +653,7 @@
       "scope": "support.class.component.js",
       "settings": {
         "foreground": "#000088",
-        "fontStyle": "bold"
+        "fontStyle": ""
       }
     },
     {
@@ -661,7 +661,7 @@
       "scope": "storage.type.class.js",
       "settings": {
         "foreground": "#000088",
-        "fontStyle": "bold"
+        "fontStyle": ""
       }
     },
 
@@ -696,7 +696,7 @@
       "scope": "variable.language.this.ts",
       "settings": {
         "foreground": "#000088",
-        "fontStyle": "bold"
+        "fontStyle": ""
       }
     },
     {
@@ -760,7 +760,7 @@
       "scope": "storage.type.function.ts",
       "settings": {
         "foreground": "#000088",
-        "fontStyle": "bold"
+        "fontStyle": ""
       }
     },
     {
@@ -768,7 +768,7 @@
       "scope": "storage.type.class.ts",
       "settings": {
         "foreground": "#000088",
-        "fontStyle": "bold"
+        "fontStyle": ""
       }
     },
     {
@@ -776,7 +776,7 @@
       "scope": "storage.type.ts",
       "settings": {
         "foreground": "#000088",
-        "fontStyle": "bold"
+        "fontStyle": ""
       }
     },
     {
@@ -794,7 +794,7 @@
       "scope": "punctuation.section.embedded.begin.php",
       "settings": {
         "foreground": "#000088",
-        "fontStyle": "bold"
+        "fontStyle": ""
       }
     },
     {
@@ -802,7 +802,7 @@
       "scope": "variable.language.this.php",
       "settings": {
         "foreground": "#696539",
-        "fontStyle": "bold"
+        "fontStyle": ""
       }
     },
     {
@@ -810,7 +810,7 @@
       "scope": "variable.other.php",
       "settings": {
         "foreground": "#696539",
-        "fontStyle": "bold"
+        "fontStyle": ""
       }
     },
     {
@@ -818,7 +818,7 @@
       "scope": "storage.type.function.php",
       "settings": {
         "foreground": "#000088",
-        "fontStyle": "bold"
+        "fontStyle": ""
       }
     },
     {
@@ -826,7 +826,7 @@
       "scope": "storage.type.class.php",
       "settings": {
         "foreground": "#000088",
-        "fontStyle": "bold"
+        "fontStyle": ""
       }
     },
     {
@@ -860,7 +860,7 @@
       "scope": "storage.type.function.python",
       "settings": {
         "foreground": "#000088",
-        "fontStyle": "bold"
+        "fontStyle": ""
       }
     },
     {
@@ -868,7 +868,7 @@
       "scope": "entity.name.function.python",
       "settings": {
         "foreground": "#696539",
-        // "fontStyle": "bold"
+        // "fontStyle": ""
       }
     },
     {
@@ -876,7 +876,7 @@
       "scope": "source.python",
       "settings": {
         "foreground": "#4d154d",
-        // "fontStyle": "bold"
+        // "fontStyle": ""
       }
     },
     {
@@ -884,7 +884,7 @@
       "scope": "keyword.operator.logical.python",
       "settings": {
         "foreground": "#4d154d",
-        // "fontStyle": "bold"
+        // "fontStyle": ""
       }
     },
     // Ruby
@@ -893,7 +893,7 @@
       "scope": "entity.name.function.ruby",
       "settings": {
         "foreground": "#696539",
-        // "fontStyle": "bold"
+        // "fontStyle": ""
       }
     },
     {
@@ -901,7 +901,7 @@
       "scope": "source.ruby",
       "settings": {
         "foreground": "#4d154d",
-        // "fontStyle": "bold"
+        // "fontStyle": ""
       }
 
     },
@@ -910,7 +910,7 @@
       "scope": "support.function.kernel.ruby",
       "settings": {
         "foreground": "#326d6e",
-        "fontStyle": "bold"
+        "fontStyle": ""
       }
     },
     {
@@ -918,7 +918,7 @@
       "scope": "entity.name.type.class.ruby",
       "settings": {
         "foreground": "#4d154d",
-        "fontStyle": "bold"
+        "fontStyle": ""
       }
 
     },
